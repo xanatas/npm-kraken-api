@@ -1,6 +1,6 @@
 {
-  "name": "kraken-api",
-  "version": "0.1.7",
+  "name": "kraken-api-xan",
+  "version": "0.1.8",
   "description": "kraken.com API client library for NodeJS",
   "keywords": [
     "kraken",
@@ -8,7 +8,7 @@
     "btc",
     "bitcoin"
   ],
-  "author": "Robert Myers (https://github.com/nothingisdead)",
+  "author": "Philip Scigala (https://github.com/xanatas)",
   "contributors": [
   ],
   "license": "MIT",
@@ -18,15 +18,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nothingisdead/npm-kraken-api"
+    "url": "https://github.com/xanatas/npm-kraken-api"
   },
   "main": "kraken.js",
   "engines": {
     "node": ">=0.10"
   },
   "bugs": {
-    "url": "https://github.com/nothingisdead/npm-kraken-api/issues",
-    "email": "rbmyr8@gmail.com"
+    "url": "https://github.com/xanatas/npm-kraken-api/issues",
+    "email": "pscigala@gmail.com"
   },
   "readmeFilename": "README.md"
 }

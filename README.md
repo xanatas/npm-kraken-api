@@ -51,6 +51,3 @@ Credit:
 I used the example php implementation at https://github.com/payward/kraken-api-client and the python implementation at https://github.com/veox/python3-krakenex as references.
 
 
-Feeling generous? Send me a fraction of a bitcoin!
-
-12X8GyUpfYxEP7sh1QaU4ngWYpzXJByQn5
